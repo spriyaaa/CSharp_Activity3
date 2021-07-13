@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\bin\Debug\Activity3UI.exe.config
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\bin\Debug\Activity3UI.exe
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\bin\Debug\Activity3UI.pdb
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\obj\Debug\Activity3UI.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\obj\Debug\Activity3UI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\obj\Debug\Activity3UI.exe
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\obj\Debug\Activity3UI.pdb
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\bin\Debug\Activity3BL.dll
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\bin\Debug\Activity3BL.pdb
+C:\Users\hp\source\repos\Activity3UI\Activity3UI\obj\Debug\Activity3UI.csproj.CopyComplete
